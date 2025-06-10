@@ -1,7 +1,7 @@
 ---
 layout: home  # Ce layout doit être créé si tu souhaites une mise en page personnalisée
 title: "Page d'Accueil"
-permalink: /Accueil/
+permalink: /
 ---
 <img src="{{ '/assets/image/Logo2.png' | relative_url }}" alt="Mon Logo" width="400"  height="400" style= "display: block; margin : 0 auto;" />
 
