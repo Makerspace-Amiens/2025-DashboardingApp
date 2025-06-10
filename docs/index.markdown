@@ -16,17 +16,25 @@ Ecare est une application dédiée au bien-être alimentaire. Elle accompagne le
 ### Services proposés :
 
 
-- **Menu clair et concis** : L’application propose un tableau de bord clair qui permet aux utilisateurs de visualiser rapidement leurs apports journaliers, et d'accéder facilement aux principales fonctionnalités : planification des repas, exploration de plats, analyse des assiettes et suivi global.
+<div style="display: flex; justify-content: center; gap: 40px;">
 
-<img src="{{ '/assets/image/menu.jpg' | relative_url }}" alt="Mon Logo" width="110"  height="150" style= "display: block; margin : 0 auto;" />
+  <div style="text-align: center; max-width: 150px;">
+    <img src="{{ '/assets/image/menu.jpg' | relative_url }}" alt="Menu clair et concis" width="110" height="150" />
+    <p><strong>Menu clair et concis</strong> : L’application propose un tableau de bord clair qui permet aux utilisateurs de visualiser rapidement leurs apports journaliers, et d'accéder facilement aux principales fonctionnalités : planification des repas, exploration de plats, analyse des assiettes et suivi global.</p>
+  </div>
 
-- **Recettes adaptées** : Chaque utilisateur peut retrouver ses plats favoris, rechercher de nouvelles idées et organiser ses repas selon ses goûts. Le système met en avant les options enregistrées, pour une expérience fluide et personnelle.
+  <div style="text-align: center; max-width: 150px;">
+    <img src="{{ '/assets/image/Recette.jpg' | relative_url }}" alt="Recettes adaptées" width="110" height="150" />
+    <p><strong>Recettes adaptées</strong> : Chaque utilisateur peut retrouver ses plats favoris, rechercher de nouvelles idées et organiser ses repas selon ses goûts. Le système met en avant les options enregistrées, pour une expérience fluide et personnelle.</p>
+  </div>
 
-<img src="{{ '/assets/image/Recette.jpg' | relative_url }}" alt="Mon Logo" width="110"  height="150" style="display: block; margin: 0 auto;" />
+  <div style="text-align: center; max-width: 150px;">
+    <img src="{{ '/assets/image/Besoinjour.jpg' | relative_url }}" alt="Calcul apport calorique" width="110" height="150" />
+    <p><strong>Calcul apport calorique</strong> : Grâce à un calculateur intégré, les utilisateurs peuvent estimer leurs besoins en fonction de leur âge, poids, taille, genre et niveau d’activité physique. Un moyen efficace de garder le contrôle sur son alimentation.</p>
+  </div>
 
-- **Calcul apport calorique** : Grâce à un calculateur intégré, les utilisateurs peuvent estimer leurs besoins en fonction de leur âge, poids, taille, genre et niveau d’activité physique. Un moyen efficace de garder le contrôle sur son alimentation.
+</div>
 
-<img src="{{ '/assets/image/Besoinjour.jpg' | relative_url }}" alt="Mon Logo" width="110" height="150" style="display: block; margin: 0 auto;" />
 
 ## Contactez-moi
 
