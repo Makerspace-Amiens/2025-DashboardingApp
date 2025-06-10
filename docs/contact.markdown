@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Prooooooooooooooooooooooout
+title: contact
 permalink: /contact/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Prooooooooooooooooooooooout
+title: Documentation technique
 permalink: /about/
 ---
 
