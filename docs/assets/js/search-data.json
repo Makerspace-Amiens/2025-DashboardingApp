@@ -1,0 +1,37 @@
+{"0": {
+    "doc": "Accueil",
+    "title": "Bienvenue sur Ecare !",
+    "content": "Un assistant de vie selon vos envies . Commencer maintenant Voir sur GitHub . ",
+    "url": "/#bienvenue-sur-ecare-",
+    
+    "relUrl": "/#bienvenue-sur-ecare-"
+  },"1": {
+    "doc": "Accueil",
+    "title": "À propos d’Ecare",
+    "content": "Ecare est une application dédiée au bien-être alimentaire. Elle accompagne les utilisateurs dans l’organisation de leurs repas en tenant compte de leurs besoins personnels. Grâce à une interface simple et intuitive, chacun peut suivre son alimentation au quotidien, gérer son profil et bénéficier de conseils personnalisés. ",
+    "url": "/#%C3%A0-propos-decare",
+    
+    "relUrl": "/#à-propos-decare"
+  },"2": {
+    "doc": "Accueil",
+    "title": "Services proposés",
+    "content": "Menu clair et concis . Nouveau . L’application propose un tableau de bord clair qui permet aux utilisateurs de visualiser rapidement leurs apports journaliers, et d’accéder facilement aux principales fonctionnalités : planification des repas, exploration de plats, analyse des assiettes et suivi global. Recettes adaptées . Populaire . Chaque utilisateur peut retrouver ses plats favoris, rechercher de nouvelles idées et organiser ses repas selon ses goûts. Le système met en avant les options enregistrées, pour une expérience fluide et personnelle. Calcul apport calorique . Essentiel . Grâce à un calculateur intégré, les utilisateurs peuvent estimer leurs besoins en fonction de leur âge, poids, taille, genre et niveau d’activité physique. Un moyen efficace de garder le contrôle sur son alimentation. ",
+    "url": "/#services-propos%C3%A9s",
+    
+    "relUrl": "/#services-proposés"
+  },"3": {
+    "doc": "Accueil",
+    "title": "Contactez-nous",
+    "content": "Envie de discuter de vos besoins ou de poser des questions ? . N’hésitez pas, nous sommes là pour vous aujourd’hui dans l’enceinte de l’école Unilasalle Amiens. Astuce : Explorez la navigation pour découvrir toutes les fonctionnalités d’Ecare ! . ",
+    "url": "/#contactez-nous",
+    
+    "relUrl": "/#contactez-nous"
+  },"4": {
+    "doc": "Accueil",
+    "title": "Accueil",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  }
+}
