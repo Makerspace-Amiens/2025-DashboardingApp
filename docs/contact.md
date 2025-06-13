@@ -17,12 +17,11 @@ Campus
 {: .label .label-blue }
 
 **Unilasalle Amiens**  
-19 Rue Pierre Waguet  
+14 quai de la somme 
 80000 Amiens, France
 
 ### Disponibilité
 - **Lundi - Vendredi** : 9h00 - 17h00
-- **Période** : Année universitaire 2024-2025
 - **Lieu** : Campus Unilasalle Amiens
 
 ---
@@ -35,15 +34,13 @@ Campus
 - Demandes de démonstration
 - Feedback et suggestions
 
-### Réseaux sociaux
-- **LinkedIn** : [Projet Ecare](https://linkedin.com/company/ecare-app)
-- **GitHub** : [Dépôt du projet](https://github.com/PaulCHRETlEN/PaulCHRETlEN.github.io)
+- **GitHub** : [Dépôt du projet](https://github.com/GaetanSuch/RepoEcare.git)
 
 ---
 
 ## Types de demandes
 
-### 🎯 Démonstration
+### Démonstration
 Vous souhaitez voir Ecare en action ?
 - Démonstration live de l'application
 - Présentation des fonctionnalités
@@ -59,13 +56,8 @@ Problème ou question technique ?
 Intéressé par une collaboration ?
 - Projet étudiant similaire
 - Partenariat académique
-- Stage ou emploi
 
-### 📚 Documentation
-Besoin d'informations supplémentaires ?
-- Spécifications techniques
-- Guide d'installation
-- Architecture du projet
+
 
 ---
 
@@ -77,7 +69,7 @@ Besoin d'informations supplémentaires ?
 Bêta
 {: .label .label-yellow }
 
-Oui ! Une version bêta est disponible pour les tests. Contactez-nous pour obtenir un accès.
+Oui ! Une version bêta est disponible pour les tests.
 
 ### Le code source est-il disponible ?
 {: .d-inline-block }
