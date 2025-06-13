@@ -15,7 +15,7 @@ permalink: /
 
     <div style="margin-top: 1.5rem;">
       <a href="#services-proposés" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2">Commencer maintenant</a>
-      <a href="https://github.com/PaulCHRETlEN/PaulCHRETlEN.github.io" class="btn fs-5 mb-4 mb-md-0">Voir sur GitHub</a>
+      <a href="https://github.com/GaetanSuch/RepoEcare.git" class="btn fs-5 mb-4 mb-md-0">Voir sur GitHub</a>
     </div>
   </div>
 
